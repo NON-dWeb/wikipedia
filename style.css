@@ -1,0 +1,32 @@
+body {background-color: burlywood; 
+    display: flex;}
+nav {background-color: yellowgreen; 
+    width: 400px;text-align: center;}
+button {background-color: red;vertical-align: middle;}
+
+.center {display:flex;}
+.p { text-align:left;flex:3; align-items: center;}
+.pa {text-align: right;flex:1; align-items: center;}
+.igau {order: 2; margin-bottom: 12%;}
+.imge {margin-bottom:12%;}
+.navi {width:100%}
+
+ 
+#imgleft, #imgmid, #imgright {
+	width:300px;
+	height:300px;
+}
+.s {display:flex; }
+.d1 {display: inline-flex; margin-bottom: 18%;}
+.dcolumn {display:flex;flex-direction: column;}
+
+#imgmid {margin-right: 38%;}
+#txtvid {display: flex;flex-direction: column; margin-top: 10%; margin-right: 10%; text-align: center;}
+
+.vid { margin-left: 28%; margin-top: 14%;}
+#pcenter {text-align: center;position: relative;}
+
+h1 {text-align: center;}
+.vidtxt {text-align: center;}
+
+.com {text-align: center;margin-left: 2%;}
